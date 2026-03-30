@@ -1,3 +1,5 @@
+![Banner](docs/images/praetor_legal_banner.png)
+
 # Praetor ⚖️
 **Autonomous redlining for scanned contracts (signatures, handwriting, annotations included).**
 
