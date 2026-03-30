@@ -96,6 +96,3 @@ Most legal tooling breaks down when documents aren’t pristine text PDFs. Praet
 - [ ] Export: Word-compatible suggestions, PDF annotations, or unified diff
 
 ---
-
-## Repository Structure (Proposed)
-> Adjust to match your actual layout as it evolves.
