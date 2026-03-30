@@ -76,7 +76,7 @@ Most legal tooling breaks down when documents aren’t pristine text PDFs. Praet
 
 ---
 
-## Roadmap (Suggested)
+## Roadmap (Foreseeable Future)
 ### Near-term
 - [ ] Robust PDF ingestion (page streaming; fail-safe for massive docs)
 - [ ] Preprocessing improvements (deskew, denoise, contrast, region proposals)
